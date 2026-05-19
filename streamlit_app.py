@@ -17,3 +17,5 @@ st.balloons()
 import streamlit as st
 
 st.snow()
+st.balloons()
+import streamlit as st
